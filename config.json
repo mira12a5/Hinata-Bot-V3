@@ -1,5 +1,5 @@
 {
-   "author": ["MahMUD"],
+   "author": ["NaZmul"],
     "facebookAccount": {
     "email": "mahmudx077@gmail.com",
     "password": "",
@@ -25,7 +25,7 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "HinataBot V3",
+  "nickNameBot": "SabihaBot V3",
   "prefix": "!",
   "database": {
     "type": "sqlite",
